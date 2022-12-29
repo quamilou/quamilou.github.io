@@ -10,6 +10,6 @@ function changeDarkMode(){
         darkMode = true;
         document.documentElement.style.setProperty("--text-color","white");
         document.documentElement.style.setProperty("--background-color","#2b362e");
-        document.getElementById("dark-light-mode").innerHTML = "Mode Claire";
+        document.getElementById("dark-light-mode").innerHTML = "Mode Clair";
     }
 }
