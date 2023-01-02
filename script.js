@@ -9,7 +9,7 @@ function changeDarkMode(){
     }else{
         darkMode = true;
         document.documentElement.style.setProperty("--text-color","white");
-        document.documentElement.style.setProperty("--background-color","#2b362e");
+        document.documentElement.style.setProperty("--background-color","#2B4533");
         document.getElementById("dark-light-mode").innerHTML = "Mode Clair";
     }
 }
