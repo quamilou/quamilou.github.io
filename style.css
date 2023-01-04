@@ -3,7 +3,6 @@
 :root{
     --background-color: #d8f1de;
     --text-color: black;
-    --text-color2: red;
 
 }
 
@@ -57,7 +56,7 @@ nav ul li span{
 header {
     margin-top: 40px;
     display: flex;
-    justify-content: space-between;
+    justify-content:space-between;
     align-items: top;
 
 }
@@ -88,7 +87,7 @@ header .header-left .links {
     margin-top: 80px;
 }
 header .header-left .links a {
-    text-decoration:  none;
+    text-decoration: none;
     color: inherit;
     position: relative;
     margin-right: 40px;
