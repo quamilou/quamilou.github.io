@@ -41,6 +41,10 @@ nav ul li {
     cursor: pointer;
     position: relative;
 }
+nav ul li a {
+    text-decoration: none;
+    
+}
 
 nav ul li span{
     position: absolute;
@@ -109,7 +113,8 @@ header .header-right {
 }
 
 header .header-right img {
-    width: 100%;  
+    width: 100%;
+    border-radius: 50%;
 }
 
 
@@ -174,6 +179,20 @@ header .body-right li {
 
 
 
+.error {
+    width: auto;
+    text-align: center;
+    color:#343434
+}
+
+.error img{
+    width: auto;
+    height: 700px;
+    align-items: center;
+}
+
+
+
 
 .images {
     margin-top: 60px;
@@ -219,7 +238,7 @@ footer p {
 
 @media screen and (max-width: 620px) {
     header {
-        flex-direction: column-reverse;
+        flex-direction: column;
     }
     header .header-left{
         margin-right: 0;
@@ -234,8 +253,4 @@ footer p {
     .images .image-card .image-left img {
         width: 100%;
     }
-}
-
-img {
-    border-radius: 50%;
 }
