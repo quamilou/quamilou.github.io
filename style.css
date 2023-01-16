@@ -191,6 +191,9 @@ header .body-right li {
     align-items: center;
 }
 
+.error a {
+    text-decoration: none;
+}
 
 
 
