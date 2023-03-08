@@ -198,13 +198,13 @@ header .body-right li {
 
 
 .images {
-    margin-top: 60px;
+    margin-top: 10px;
 }
 
 .images .image-card {
     display: flex;
     align-items: center;
-    margin-bottom: 60px;
+    margin-bottom: 10px;
 }
 
 .images .image-card .image-left {
@@ -217,6 +217,15 @@ header .body-right li {
 }
 
 
+.block {
+    margin-top: 10px;
+}
+
+.block .block-card {
+    display: flex;
+    align-items: left;
+    margin-bottom: 10px;
+}
 
 
 
