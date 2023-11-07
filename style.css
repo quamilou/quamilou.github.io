@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;500;600;700&display=swap');
+@import url('text/PressStart2P-Regular.ttf');
 
 :root{
     --background-color: #d8f1de;
@@ -168,7 +168,7 @@ header .body-right li {
 
 
 .about {
-    margin-top: 150px;
+    margin-top: 25px;
 }
 .about p {
     font-size: 20px;
@@ -198,13 +198,19 @@ header .body-right li {
 
 
 .images {
-    margin-top: 60px;
+    margin-top: 25px;
+}
+
+.images p {
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 300;
 }
 
 .images .image-card {
     display: flex;
     align-items: center;
-    margin-bottom: 60px;
+    margin-bottom: 10px;
 }
 
 .images .image-card .image-left {
@@ -216,7 +222,24 @@ header .body-right li {
 
 }
 
+.images .image-card .image-right {
+    margin-right: 40px;
+}
 
+.images .image-card .image-right img {
+    height: 250px;
+
+}
+
+.block {
+    margin-top: 10px;
+}
+
+.block .block-card {
+    display: flex;
+    align-items: left;
+    margin-bottom: 10px;
+}
 
 
 
@@ -254,6 +277,10 @@ footer p {
     }
 
     .images .image-card .image-left img {
+        width: 100%;
+    }
+
+    .images .image-card .image-right img {
         width: 100%;
     }
 }
