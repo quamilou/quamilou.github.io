@@ -6,9 +6,18 @@ layout: home
 title: Accueil
 permalink: /
 ---
-# Bienvenue sur Mon Portfolio
+<style type="text/css" media="screen">
+  .container {
+    margin: 10px auto;
+    max-width: 600px;
+    text-align: center;
+  }
+</style>
 
-![Image de couverture](/image/Next%20steps-bro.png) <!-- Remplacez 'cover-image.jpg' par le nom de votre image de couverture réelle dans le dossier 'image' -->
+<div class="container">
+  <img src="image/Next%20steps-bro.png">
+</div>
+
 ## À propos de moi
 Je suis SAENZ Quentin, un étudiant dans le domaine de l'informatique. Bienvenue sur mon portfolio en ligne, qui reflète mon parcours académique et professionnel en BTS Services Informatiques aux Organisations (SIO). Ici, je partage avec vous un aperçu de mes compétences, réalisations et projets sur lesquels j'ai travaillé. Mon objectif est de vous présenter une vue d'ensemble de mes capacités techniques, de ma collaboration en équipe, ainsi que de mon engagement envers un apprentissage continu dans ce domaine.
 
