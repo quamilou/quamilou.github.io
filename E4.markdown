@@ -1,0 +1,39 @@
+---
+layout: page
+title: E4
+permalink: /E4/
+---
+## Epreuve E4
+---
+Bienvenue sur la section dédiée à mon expérience E4. Cette période a été marquée par de nombreux défis et apprentissages, à travers lesquels j'ai pu affiner mes compétences techniques et développer ma capacité à travailler en équipe.
+
+## Projets Personnalisés Encadrés (PPE)
+
+Les Projets Personnalisés Encadrés ont joué un rôle dans mon parcours académique, me permettant de mettre en pratique mes connaissances théoriques.
+
+### Projet PPE 1: ****
+
+### Projet PPE 2: ****
+---
+
+
+## Réalisations professionnelles
+
+Au-delà des projets académiques, j'ai également eu l'opportunité de contribuer à des projets professionnels.
+
+### 1 - [Gestion du patrimoine informatique](GPI)
+
+### 2 - [Répondre aux incidents et aux demandes d’assistance et d’évolution](RI)
+
+### 3 - [Développer la présence en ligne de l’organisation](DPLO)
+
+### 4 - [Travail en mode projet](TMP)
+
+### 5 - [Mise à disposition de services informatiques](MDSI)
+
+### 6 - [Organisation du développement professionnel](ODP)
+
+
+
+
+
