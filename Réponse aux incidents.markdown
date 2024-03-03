@@ -1,6 +1,5 @@
 ---
 layout: page
-#title: Répondre aux incidents et aux demandes d’assistance et d’évolution
 permalink: /E4/RI
 ---
 ## Répondre aux incidents et aux demandes d’assistance et d’évolution
