@@ -9,6 +9,7 @@ permalink: /E4/SP1-2
 En tant que membre de l'équipe IBI, ma responsabilité inclu l'utilisation d'ASANA pour la gestion des demandes liées au logiciel BATLab, depuis la réception jusqu'à leur résolution.
 
 ![ASANA-1](/IMG/ASANA-1.png)
+
 Capture d'écran: "ASANA-1"
 
 La capture d'écran jointe présente le tableau de bord ASANA utilisé par l'équipe IBI pour le suivi des demandes concernant le logiciel BATLab. Les demandes sont organisées en colonnes correspondant à leur statut : `Inbox (mail, form)`, `Not Yet`, `Low Priority`, `Medium Priority`, `High Priority`, et `Refactoring`.
@@ -19,6 +20,7 @@ Chaque colonne du tableau ASANA représente une catégorie distincte qui facilit
 ### Détail des étiquettes de demandes:
 
 ![ASANA-étiquettes](/IMG/ASANA-étiquette.png)
+
 Capture d'écran: "ASANA-étiquette"
 
 Au sein des colonnes, les demandes sont marquées par des étiquettes telles que `Bug`, `Besoin`, `Suggestion`, ou `Optimisation`. Ces étiquettes permettent de clarifier la nature de chaque demande, favorisant une prise en charge adaptée par les membres de l'équipe technique. Par exemple, les `Bug` indiquent des dysfonctionnements à corriger, alors que les `Besoins` peuvent signaler des requêtes d'ajout de nouvelles fonctionnalités.
