@@ -1,0 +1,27 @@
+---
+layout: page
+permalink: /E4/SP1-3
+---
+## Visibilité en ligne de l'Institut de Biologie François Jacob
+---
+
+### Contexte:
+L'équipe de communication digitale du CEA, affectée à l'Institut de Biologie François Jacob, avait pour responsabilité de maintenir et de présenter la présence en ligne de l'institut à travers diverses plateformes sociales. Elle gérait le partage régulier des résultats de recherche et des actualités pertinentes sur Twitter (@CEA_Jacob), ainsi que la mise en ligne de contenus vidéo éducatifs sur la chaîne YouTube de l'institut. Le but était de garder le public informé des dernières avancées et de contribuer à la diffusion du savoir scientifique.
+
+![x](/IMG/x.png)
+
+![ytb-cea](/IMG/ytb-cea1.png)
+### Communications dans les journaux tabloïds nationaux :
+- Le Monde « Maladies infectieuses  : une plateforme-forme d’imagerie de pointe » juillet 2018 ;
+Le Monde « Des singes à l’homme, Roger Le Grand traque les infections » mai 2022 ;
+- Le Monde « Entre les scientifiques et les défenseurs des animaux, une collaboration sans jugement est possible » juillet 2022 ;
+- Le Monde « La géostratégie du macaque ou les enjeux de souveraineté scientifique et médicale » janvier 2024.
+
+### [SCIENCELOOP] Qu'est-ce que le microbiote ?:
+Comme dans cette série de vidéos [SCIENCELOOP], nous avons abordé le sujet fascinant du microbiote humain. L'objectif était d'éclairer le public sur l'importance des micro-organismes qui résident dans notre corps et leur impact sur notre santé. Ce contenu, conçu pour être à la fois instructif et accessible, a rencontré un vif succès sur notre chaîne YouTube, en témoignent les 10 000 vues accumulées, soulignant ainsi l'intérêt et l'engagement de notre audience pour des sujets scientifiques profonds.
+
+![ytb-cea2](/IMG/ytb-cea2.png)
+
+### Mesure de l'impact :
+- Suivi régulier des indicateurs de performance tels que le nombre de vues, les partages et les mentions « J'aime » pour évaluer l'impact des publications.
+- Analyse des tendances et des retours de la communauté pour affiner les stratégies de contenu et d'interaction.
