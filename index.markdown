@@ -29,6 +29,9 @@ Je suis SAENZ Quentin, un étudiant dans le domaine de l'informatique. Bienvenue
 - Logiciel utilisés : Visual Studio Code, Jet Brains (IntelliJ,PyCharm, PhpStorm...), Eclipse, Atom
 - Outils : Git, GitHub
 
+## [CEA FAR](Entreprise) :
+- Commissariat à l'Énergie Atomique et aux Énergies Alternatives - Site de Fontenay-aux-Roses
+
 ## [Epreuve E4](E4) :
 
 - L'épreuve E4 est un examen de la matière de communication commerciale et une des épreuves du BTS NRC. Cette dernière est une épreuve professionnelle qui permet de mettre en situation un contexte bien précis auquel l'étudiant aura déjà été confronté au sein d'une entreprise.
