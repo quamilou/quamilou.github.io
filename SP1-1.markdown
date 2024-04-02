@@ -1,0 +1,26 @@
+---
+layout: page
+permalink: /E4/SP1-1
+---
+## Gestion des droits utilisateurs dans BATLab
+---
+
+### Contexte:
+BATLab est un LIMS et elle comprend un module tel que "Privilège", qui permet de donner un niveau d'accès dans le système. L'idée est de s'assurer que seules les bonnes personne peuvent accéder à des informations importantes, tout en leur permettant de travailler ensemble sans problèmes. Ce module est très important pour garder les données en sécurité. 
+
+![Privileges-1](/IMG/Privileges-1.png)
+
+Fontionnalité "access level":
+    
+- None: Le curseur est positionné à l'extrémité gauche, indiquanqu'aucun droit n'est accordé à l'utilisateur.
+- View: Glisser le curseur vers la droite permet de donner l'utilisateur le droit de visualiser les données sans les modifier.
+- Add/Edit: Un positionnement plus avancé du curseur autorisl'utilisateur à ajouter de nouvelles entrées ou à modifier dedonnées existantes.
+- Delete: Le curseur placé à l'extrémité droite octroie le droit dsupprimer des données, reflétant le niveau d'accès le plus élevé.
+
+### Avantage:  
+- Sécurité renforcée : Accès limité aux fonctions nécessaires, minimisant les risques.
+- Gestion efficace : Interface claire pour une administration rapide des permissions.
+
+### Compétences développées:
+- Maîtrise des droits d'accès
+- Agilité dans la gestion et la modification des permissions.
