@@ -1,0 +1,23 @@
+---
+layout: page
+permalink: /E4/SP2-1
+---
+## Gestion dynamique des sauvegardes : Principe de rotation sur 15 jours
+---
+
+### Contexte:
+La stratégie de sauvegarde rotative sur 15 jours a été mise en place pour assurer une récupération efficace des données en cas d'incident. Ce système automatise la création et la suppression des sauvegardes, en ne conservant que les 15 derniers jours de données, ce qui permet de bénéficier d'un équilibre entre la protection des données et la gestion des ressources.
+
+Le script en place automatise le processus de sauvegarde et de rotation des données. Chaque jour, il exécute les commandes suivantes :
+
+![Backup-1](/IMG/Backup-1.png)
+    
+- Création de la sauvegarde quotidienne : Utilisation de mysqldump pour exporter la base de données dans un fichier .sql. 
+- Nomination des fichiers : Les fichiers de sauvegarde sont nommés avec la date du jour pour une identification facile.
+- Rotation des sauvegardes : Le script calcule automatiquement la date de la sauvegarde à supprimer en utilisant la date du jour et en retranchant 15 jours. Cette sauvegarde est alors éliminée, ce qui libère de l'espace pour la nouvelle sauvegarde.
+
+### Compétences développées:
+- Maîtrise des scripts pour :
+    - L'automatisation des sauvegardes de base de données, réduisantle risque d'erreurs humaines.
+    - La gestion d'espace de stockage dédié aux sauvegardes en supprimant les anciennes données de façon programmée.
+- Compréhension des procédures de sauvegarde comme mesure préventive contre la perte de données critiques.
