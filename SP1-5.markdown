@@ -1,0 +1,30 @@
+---
+layout: page
+permalink: /E4/SP1-5
+---
+## Analyse et organisation des formations sur le logiciel BATLab
+---
+
+### Contexte:
+En tant que développeur sur le logiciel LIMS (Laboratory Information Management System) nommé BATLab, je suis impliqué dans l’évolution du logiciel pour répondre au mieux aux besoins des utilisateurs. Outre le développement, notre équipe propose des formations personnalisées en fonction des demandes et du niveau des participants. Ces formations visent à familiariser les utilisateurs avec le logiciel, qu’ils soient nouveaux arrivants ou utilisateurs expérimentés ayant besoin de se mettre à jour sur des fonctionnalités spécifiques ou des nouveaux modules.
+
+![Email de proposition de formation](/IMG/Email-de-proposition-de-formation.png)
+
+Organisation des formations:
+    
+- Identification des besoins:
+    - Collecte de données via les supports de communication, comme les emails de demande, pour identifier les besoins spécifiques en formation des différents utilisateurs.
+    - Analyse des fonctionnalités du logiciel les plus utilisées et des modules spécifiques nécessitant une formation approfondie.
+
+- Modalités d'organisation:
+    - Planification des sessions en fonction des disponibilités des utilisateurs et des développeurs formateurs.
+    - Mise en place de sessions adaptées pour les débutants 
+    - Préparation de supports de formation modulaires, qui peuvent être ajustés en fonction des objectifs de la session.
+
+- Suivi et évaluation: 
+    - Mise en œuvre de questionnaires pour évaluer l'efficacité des formations. 
+    - Analyse des retours pour ajuster le contenu et l'approche pédagogique des futures formations.
+
+### Compétences développées:
+- Compétence en gestion de projet: organisation et adaptation des sessions de formation en fonction des besoins utilisateurs. 
+- Compétence en communication: capacité à identifier les besoins des utilisateurs et à adapter le discours technique selon le public.
