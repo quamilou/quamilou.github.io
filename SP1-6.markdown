@@ -1,0 +1,34 @@
+---
+layout: page
+permalink: /E4/SP1-6
+---
+## Implémentation d'une stratégie de veille informationnelle
+---
+
+### Contexte:
+Dans un monde où l'information évolue rapidement, il est crucial pour une entreprise de rester à la pointe de l'information. Le projet consistait à établir une stratégie de veille efficace pour surveiller les évolutions technologiques et concurrentielles dans le secteur des nouvelles technologies.
+
+![mail](/IMG/email-veille.png)
+
+### Objectifs de la veille:
+- Identifier les nouvelles tendances technologiques.
+- Surveiller les activités des concurrents.
+- Détecter les opportunités de marché et les risques potentiels.
+- S'informer sur les évolutions.
+
+    ![notification](/IMG/alertgoogle.png)
+
+    ![Alert](/IMG/alertGoogleN.png)
+### Outils et méthodes utilisés:
+
+- Google Alerts pour la surveillance des mots-clés pertinents.
+- Utilisation de plateformes spécialisées en veille sectorielle.
+- Mise en place de filtres RSS personnalisés (Feedly).
+- Abonnements à des newsletters spécialisées.
+- Réunions périodiques pour l'analyse et le partage des informations collectées.
+![feedly](/IMG/feedly.png)
+### Compétences développées:
+
+- Capacité à configurer et utiliser des outils de veille.
+- Analyse critique des informations et synthèse pour la prise de décision.
+- Communication efficace des résultats de veille aux décideurs.
