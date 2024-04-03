@@ -2,7 +2,28 @@
 layout: page
 permalink: /E4/SP1-4
 ---
-## Gestion des demandes utilisateur pour le logiciel BATLab avec ASANA
+## Planification et coordination des activités via ASANA
 ---
 
 ### Contexte:
+En tant que membre de l'équipe IBI, l'utilisation d'ASANA est au cœur de notre organisation pour la gestion et la planification des tâches. Cet outil nous permet de conserver une vue d'ensemble sur les projets en cours et de répartir les activités.
+
+![asana-2](/IMG/asana-2.png)
+
+### Attribution des Tâches:
+
+Nos réunions du lundi sont des moments clés pour la planification, où nous déterminons ensemble les priorités pour la semaine en fonction de l'avancement des tâches et des objectifs à atteindre.Cette méthode assure un suivie et s'alignée avec l'avancement global des projets. En cas d'incidents critiques tels que des erreurs systèmes ou des bugs majeurs qui perturbent le travail des utilisateurs, l'attribution est instantanée et ces tâches deviennent la plus haute priorité.
+
+![asana-etiquette](/IMG/ASANA-étiquette.png)
+
+
+Nos réunions du lundi après-midi sont des moments clés pour la planification, où nous déterminons ensemble les priorités pour la semaine en fonction de l'avancement des tâches et des objectifs à atteindre.
+
+### Gestion des Urgences:
+
+Lorsqu'une tâche urgente émerge, comme un "Crash Inattendu" ou un "Problème d'Affichage" affectant significativement les utilisateurs, elle est immédiatement priorisée. Ces situations requièrent une action rapide et sont souvent résolues en dehors du cycle de planification normal pour minimiser l'impact sur l'utilisateur.
+
+### Compétences développées:
+
+- Capacité à organiser et à prioriser les activités selon les urgences et les échéances.
+- Compétence en coordination d'équipe, assurant une attribution efficace des tâches
