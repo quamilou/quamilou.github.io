@@ -10,8 +10,6 @@ En tant que membre de l'équipe IBI, ma responsabilité inclu l'utilisation d'AS
 
 ![ASANA-1](/IMG/ASANA-1.png)
 
-Capture d'écran: "ASANA-1"
-
 La capture d'écran jointe présente le tableau de bord ASANA utilisé par l'équipe IBI pour le suivi des demandes concernant le logiciel BATLab. Les demandes sont organisées en colonnes correspondant à leur statut : `Inbox (mail, form)`, `Not Yet`, `Low Priority`, `Medium Priority`, `High Priority`, et `Refactoring`.
 
 ### Organisation des demandes:
