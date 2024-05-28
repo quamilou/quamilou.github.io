@@ -5,7 +5,7 @@ permalink: /E4/PPE2
 ---
 ## PPE2 (AspireSport - ADMIN)
 ---
-Dans le cadre d’un projet personnel encadré (PPE), j'ai conçu un site web pour la [Maison des Ligues de Lorraine](https://lalorrainesportive.wordpress.com/m2l-3/). Ce site proposait plusieurs fonctionnalités, dont la possibilité de rejoindre une équipe sportive.
+Dans le cadre d’un projet personnel encadré (PPE), j'ai conçu un site web qui à pour thème la [Maison des Ligues de Lorraine](https://lalorrainesportive.wordpress.com/m2l-3/). Ce site proposait plusieurs fonctionnalités, dont la possibilité de rejoindre une équipe sportive.
 
 Le projet a été développé en PHP, en utilisant phpMyAdmin pour la gestion de la base de données, et Apache pour le serveur web, le tout via la plateforme WAMP.
 

@@ -2,7 +2,7 @@
 layout: page
 permalink: /E4/ODP
 ---
-## Organisation du développement professionnel
+## Organiser son développement professionnel
 ---
 ### [Implémentation d'une stratégie de veille informationnelle](SP1-6)
 - Contexte:

@@ -2,7 +2,7 @@
 layout: page
 permalink: /E4/GPI
 ---
-## Gestion du patrimoine informatique
+## Gérer le patrimoine informatique
 ---
 ### [Mettre en place et vérifier les niveaux d’habilitation associés à un service](SP1-1)
 - Contexte :

@@ -3,7 +3,7 @@ layout: page
 #title: Mise à disposition de services informatiques
 permalink: /E4/MDSI
 ---
-## Mise à disposition de services informatiques
+## Mettre à disposition des utilisateurs un service informatique Organiser son développement professionnel
 ---
 ### [Accompagner les utilisateurs dans la mise en place d’un service](SP1-5)
 - Contexte :
